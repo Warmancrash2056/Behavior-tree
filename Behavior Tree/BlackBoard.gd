@@ -1,7 +1,7 @@
 class_name BlackBoard
 extends Node
 
-export var data := {}
+export var BlackBoard_Data := {}
 
-var agent_node = Node
+var Agent_From_BlackBoard_Script = Node
 
